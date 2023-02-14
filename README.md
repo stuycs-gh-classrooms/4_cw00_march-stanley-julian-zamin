@@ -1,5 +1,5 @@
 # ClassWork 00 For NeXT CS
-### Class Period:
+### Class Period: 4
 ### Name0: Stanley
 ### Name1: Julian
 ### Name2: Zamin
