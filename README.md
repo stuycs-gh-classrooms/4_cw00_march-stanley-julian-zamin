@@ -44,7 +44,7 @@ We cannot differenciate between the colors, meaning we don't know whether it is 
 #### Question 4
 In a temperature map, it is often useful to highlight particular temperature ranges. If you wanted to focus on higher temperatures, you might want to find a way to programatically highlight regions that are more red than others. Come up with an algorithm that would process the image such that the red regions are more prominent.
 
-YOUR ANSWER HERE (delete this line)
+Disregard green and blue and only use red. The lighter the red, the cooler, and the darker the red, the warmer.
 
 ---
 
